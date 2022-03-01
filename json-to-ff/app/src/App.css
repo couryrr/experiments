@@ -1,0 +1,35 @@
+.wrapper {
+  display: grid;
+  margin: 5px;
+  /*Sets the number of columns*/
+  /* fr - fractional unit fills the space of a grid column*/
+  grid-template-columns: 1fr 1fr 1fr;
+
+  /*padding between rows*/
+  grid-gap: 10px;
+
+  /*rows height*/
+  grid-auto-rows: minmax(100px, auto);
+
+}
+
+.wrapper div {
+  border: 1px solid grey;
+  height: 95vh;
+}
+
+.editor {
+  grid-column: 1;
+}
+
+.one pre {
+  margin: 0;
+}
+
+.two {
+  grid-column: 2;
+}
+
+.three {
+  grid-column: 3;
+}
