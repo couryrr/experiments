@@ -1,0 +1,28 @@
+<style>
+
+</style>
+
+<!-- Toolbar -->
+
+<div class="content" role="main">
+  <h1 style="text-align: center;">Testing out data handling</h1>
+  <form style="width: 500px; margin: 0 auto; text-align: center;">
+    <label for="first-name">
+      First Name:
+      <input type="text" name="firstName" id="firstName" #firstName /><br><br>
+    </label>
+    <label for="last-name">
+      Last Name:
+      <input type="text" name="lastName" id="lastName" #lastName /><br><br>
+    </label>
+    <label for="age">
+      Age:
+      <input type="number" name="age" id="age" #age /><br><br>
+    </label>
+    <button (click)="addPerson(firstName, lastName, age)">Add</button>&nbsp;
+    <button>Clear</button>
+  </form>
+  <hr>
+  <app-person-list [people]="people"></app-person-list>
+</div>
+<router-outlet></router-outlet>

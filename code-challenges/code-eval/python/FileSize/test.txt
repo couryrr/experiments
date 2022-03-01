@@ -1,0 +1,1000 @@
+  547  ls -la
+  548  git commit -m "Removed swap file"
+  549  git push master origin
+  550  git push origin master
+  551  ls
+  552  git branch
+  553  git remote
+  554  git add remote
+  555  ls
+  556  cd ../
+  557  mkdir PrimePalindrome
+  558  mv PrimePal/PrimePal.py PrimePalindrome/
+  559  rm PrimePal
+  560  sudo rm -rf PrimePal
+  561  ls
+  562  ls -la
+  563  ls FizzBuzz/
+  564  ls -la FizzBuzz/
+  565  mv FizzBuzz/ CodeEval
+  566  ls
+  567  cd ../
+  568  ls
+  569  mv CodeEval/CodeEval/ CodeEval2
+  570  ls
+  571  mv CodeEval/PrimePalindrome/ CodeEval2/
+  572  ls
+  573  ls CodeEval
+  574  ls CodeEval2
+  575  ls CodeEval2/python/
+  576  mv CodeEval2/PrimePalindrome/ CodeEval2/python/
+  577  ls
+  578  rm CodeEval
+  579  rm -rf rm CodeEval/
+  580  mv CodeEval2/ CodeEval
+  581  ls
+  582  cd CodeEval/
+  583  ls
+  584  cd python/
+  585  ls
+  586  ls -la
+  587  cd fizzBuzz/
+  588  ls
+  589  ls -la
+  590  rm .idea/
+  591  sudo rm -rf .idea/
+  592  cd ..
+  593  ls
+  594  ls -l
+  595  ls -la
+  596  cd ..
+  597  ls
+  598  ls -la
+  599  git status
+  600  git add python/PrimePalindrome/
+  601  git add .
+  602  git add -all .
+  603  git add --all .
+  604  git status
+  605  git commit -m "Cleaned up and started Prime Palindrome finder"
+  606  git push origin master
+  607  clear
+  608  git status
+  609  vimtutor 
+  610  cd Documents/Development/personal/CodeEval/python/PrimePalindrome/
+  611  ls
+  612  clear
+  613  vim PrimePal.py 
+  614  vim ~/.vimrc 
+  615  vim 
+  616  vim ~/.vimrc 
+  617  vim 
+  618  vim PrimePal.py 
+  619  clear
+  620  vim PrimePal.py 
+  621  clear
+  622  exit
+  623  cd Documents/Development/personal/CodeEval/
+  624  ls
+  625  cd python/
+  626  ls
+  627  cleat
+  628  clear
+  629  cd PrimePalindrome/
+  630  ls
+  631  vim PrimePal.py 
+  632  clear
+  633  git add 
+  634  ls -la
+  635  git add .
+  636  git commit -m "Created Palidrome Class"
+  637  git push master origin
+  638  git push origin master
+  639  clear
+  640  git branch
+  641  git
+  642  clear
+  643  cd Documents/Development/personal/
+  644  ls
+  645  mkdir OpenCLE
+  646  cd OpenCLE/
+  647  ls
+  648  ping google.com
+  649  ifconfig
+  650  culr
+  651  curl
+  652  sudo apt-get install curl
+  653  curl
+  654  curl https://www.dln.com/cr/index2015/January72015.pdf
+  655  4
+  656  clear
+  657  cd Documents/Development/personal/CodeEval/
+  658  cd python/
+  659  ls
+  660  cd PrimePalindrome/
+  661  ls
+  662  vim PrimePal.py 
+  663  vim 
+  664  vim PrimePal.py 
+  665  git add .
+  666  git commit it -m "Finished is_palidrome check adding needed methods"
+  667  git commit git -m "Finished is_palidrome check adding needed methods"
+  668  git commit -m "Finished is_palidrome check adding needed methods"
+  669  clear
+  670  exit
+  671  xit
+  672  exit
+  673  xit
+  674  exit
+  675  python PrimePal.py 
+  676  cd Documents/Development/personal/CodeEval/python/
+  677  ls
+  678  cd PrimePalindrome/
+  679  vim
+  680  vim PrimePal.py 
+  681  python PrimePal.py >> test
+  682  cat test 
+  683  python PrimePal.py 
+  684  vim PrimePal.py 
+  685  clear
+  686  git add .
+  687  git commit -m "Finished up the PalidromeFinder and created PrimePalidromeFinder. Could use some refactoring but it is working"
+  688  clear
+  689  git push master origin
+  690  git push origin master 
+  691  clear
+  692  exit
+  693  cd Documents/Development/personal/CodeEval/python/PrimePalindrome/
+  694  git pull
+  695  git status
+  696  clear
+  697  git branch refactor
+  698  git branch 
+  699  git checkout refactor 
+  700  git branch 
+  701  exit
+  702  java
+  703  firefox 
+  704  link
+  705  link www.google.com
+  706  link --help
+  707  sudo apt-get install default-jdk
+  708  java -v
+  709  java -version
+  710  clear
+  711  javac
+  712  cd Documents/Development/personal/CodeEval/
+  713  mkdir Java $$ cd Java
+  714  ls
+  715  ls 2215/
+  716  sudo rm -rf 2215/ cd/
+  717  ls
+  718  cd Java/
+  719  vim hw.java
+  720  javac hw.java 
+  721  mv hw.java HelloWorld.java
+  722  javac HelloWorld.java 
+  723  ls
+  724  java HelloWorld 
+  725  ls
+  726  clear
+  727  rm HelloWorld.class 
+  728  j
+  729  java HelloWorld.java
+  730  javac HelloWorld.java 
+  731  ls
+  732  vim HelloWorld.class
+  733  java HelloWorld 
+  734  vim HelloWorld.java 
+  735  java HelloWorld 
+  736  javac HelloWorld.java 
+  737  java HelloWorld 
+  738  clear
+  739  vim HelloWorld.java 
+  740  javac HelloWorld.java 
+  741  java HelloWorld 
+  742  clear
+  743  exit
+  744  cd Documents/Development/personal/CodeEval/python/PrimePalindrome/
+  745  ls
+  746  cat PrimePal.py 
+  747  clear
+  748  cd ..
+  749  ls
+  750  mkdir AddPrime
+  751  cp PrimePalindrome/PrimePal.py AddPrime/
+  752  cd AddPrime/
+  753  vim PrimePal.py 
+  754  mv PrimePal.py AddPrime.py
+  755  ls
+  756  vim AddPrime.py 
+  757  cp AddPrime.py AddPrime.py3
+  758  python AddPrime.py 
+  759  vim AddPrime.py 
+  760  clear
+  761  cp AddPrime.py AddPrime.py3
+  762  vim AddPrime.py
+  763  python AddPrime.py >> test
+  764  vim test 
+  765  rm test 
+  766  clear
+  767  exit
+  768  cd Documents/Development/
+  769  mv personal/ Personal
+  770  ls
+  771  cd Personal/
+  772  ls
+  773  cd CodeEval/
+  774  cd python/
+  775  ls
+  776  cd AddPrime/
+  777  vim AddPrime.py
+  778  git status
+  779  cd ../
+  780  ls
+  781  ll
+  782  ls -la
+  783  cd ..
+  784  ls -la
+  785  git staus
+  786  git status
+  787  rm python/PrimePalindrome/PrimePal.py
+  788  git pull
+  789  git branch
+  790  git checkout master
+  791  git status
+  792  ls python/PrimePalindrome/
+  793  git pull
+  794  exit
+  795  cd Documents/Development/Personal/CodeEval/python/
+  796  ls
+  797  git status
+  798  git checkout -- PrimePalindrome/PrimePal.py
+  799  git status
+  800  cd ../
+  801  ls Java/
+  802  rm Java/HelloWorld.*
+  803  ls
+  804  ls Java/
+  805  git status
+  806  cd P
+  807  cd python/
+  808  ls
+  809  vim AddPrime/
+  810  cd AddPrime/
+  811  vim AddPrime.py
+  812  clear
+  813  python AddPrime.py 
+  814  cp AddPrime.py AddPrime.py3
+  815  cd ../J
+  816  cd ../../Java/
+  817  ls
+  818  clear
+  819  vim WordReverser.java
+  820  javac WordReverser.java 
+  821  java WordReverser 7 8
+  822  java WordReverser "Hi" "Bye"
+  823  vim WordReverser.java
+  824  javac WordReverser.java 
+  825  java WordReverser "Hi" "Bye"
+  826  clear
+  827  vim WordReverser.java 
+  828  ls
+  829  rm *
+  830  ls
+  831  vim Main.java
+  832  exit
+  833  ls
+  834  javac WordReverser.java 
+  835  ls
+  836  vim test.txt
+  837  java WordReverser test.txt 
+  838  exit
+  839  cd Documents/Development/Personal/CodeEval/Java/
+  840  ls
+  841  vim Main.java 
+  842  rm WordReverser.java 
+  843  mv Main.java WordReverser.java
+  844  ls
+  845  vim WordReverser.java 
+  846  exit
+  847  sudo apt-get update
+  848  exit
+  849  cd Documents/Development/Personal/CodeEval/Java/
+  850  ls
+  851  vim WordReverser.java 
+  852  javac WordReverser.java 
+  853  java WordReverser test.txt 
+  854  clear
+  855  exit
+  856  cd Documents/Development/Personal/CodeEval/Java/
+  857  ls
+  858  clear
+  859  ls
+  860  mkdir WordReverser
+  861  mv test.txt WordReverser.class WordReverser.java WordReverser
+  862  ls
+  863  cd WordReverser/
+  864  ls
+  865  java WordReverser test.txt 
+  866  clear
+  867  vim WordReverser.java 
+  868  javac WordReverser.java 
+  869  vim WordReverser.java 
+  870  javac WordReverser.java 
+  871  java WordReverser test.txt 
+  872  vim WordReverser.java 
+  873  javac WordReverser.java 
+  874  java WordReverser test.txt 
+  875  vim WordReverser.java 
+  876  javac WordReverser.java 
+  877  java WordReverser test.txt 
+  878  clear
+  879  java WordReverser test.txt 
+  880  clear
+  881  vim WordReverser.java 
+  882  javac WordReverser.java 
+  883  java WordReverser test.txt 
+  884  vim WordReverser.java 
+  885  javac WordReverser.java 
+  886  java WordReverser test.txt 
+  887  vim WordReverser.java 
+  888  javac WordReverser.java 
+  889  java WordReverser test.txt 
+  890  vim WordReverser.java 
+  891  javac WordReverser.java 
+  892  java WordReverser test.txt 
+  893  vim WordReverser.java 
+  894  java WordReverser test.txt 
+  895  vim WordReverser.java 
+  896  java WordReverser test.txt 
+  897  javac WordReverser.java 
+  898  java WordReverser test.txt 
+  899  vim WordReverser.java 
+  900  javac WordReverser.java 
+  901  java WordReverser test.txt 
+  902  clear
+  903  vim WordReverser.java 
+  904  javac WordReverser.java 
+  905  java WordReverser test.txt 
+  906  vim WordReverser.java 
+  907  javac WordReverser.java 
+  908  java WordReverser test.txt 
+  909  vim WordReverser.java 
+  910  javac WordReverser.java 
+  911  java WordReverser test.txt 
+  912  clear
+  913  vim WordReverser.java 
+  914  ls
+  915  mv WordReverser.java Main.java
+  916  rm WordReverser.class 
+  917  clear
+  918  exit
+  919  cd Documents/Development/Personal/CodeEval/
+  920  ls
+  921  git status
+  922  ls python/PrimePalindrome/PrimePal.py
+  923  ls python/PrimePalindrome/
+  924  rm python/PrimePalindrome/PrimePal.py3 
+  925  ls
+  926  git status
+  927  git add .
+  928  git status
+  929  git commit -m "Did some Java for word Reversing"
+  930  git push master origin/
+  931  git push origin master 
+  932  git status
+  933  git branch
+  934  exi
+  935  exit
+  936  cd Documents/Development/Personal/CodeEval/Java/
+  937  ls
+  938  mkdir SmallestMultiple
+  939  cd SmallestMultiple/
+  940  ls
+  941  vim Main.java
+  942  vim test.txt
+  943  javac Main.java 
+  944  java Main test.txt 
+  945  vim Main.java
+  946  javac Main.java 
+  947  java Main test.txt 
+  948  clear
+  949  vim Main.java 
+  950  javac Main.java 
+  951  java Main test.txt 
+  952  cd ../
+  953  ls
+  954  cp SmallestMultiple/ BitPotsition
+  955  ls
+  956  cp SmallestMultiple/ BitPotsition/
+  957  ls
+  958  ll
+  959  mkdir BitPotsition/
+  960  cp SmallestMultiple/Main.java BitPotsition/
+  961  ls
+  962  ls SmallestMultiple/
+  963  ls BitPotsition/
+  964  cd BitPotsition/
+  965  ls
+  966  clear
+  967  vim test.txt
+  968  clear
+  969  vim Main.java 
+  970  javac Main.java 
+  971  java Main test.txt 
+  972  vim Main.java 
+  973  javac Main.java 
+  974  java Main test.txt 
+  975  vim Main.java 
+  976  javac Main.java 
+  977  java Main test.txt 
+  978  vim Main.java 
+  979  javac Main.java 
+  980  java Main test.txt 
+  981  vim Main.java 
+  982  javac Main.java 
+  983  java Main test.txt
+  984  vim Main.java 
+  985  javac Main.java 
+  986  java Main test.txt
+  987  vim Main.java 
+  988  javac Main.java 
+  989  java Main test.txt
+  990  vim Main.java 
+  991  javac Main.java 
+  992  java Main test.txt
+  993  vim Main.java 
+  994  javac Main.java 
+  995  java Main test.txt
+  996  clear
+  997  javac Main.java 
+  998  java Main test.txt
+  999  vim Main.java 
+ 1000  javac Main.java 
+ 1001  java Main test.txt
+ 1002  vim Main.java 
+ 1003  javac Main.java 
+ 1004  java Main test.txt
+ 1005  vim Main.java 
+ 1006  javac Main.java 
+ 1007  java Main test.txt
+ 1008  vim Main.java 
+ 1009  javac Main.java 
+ 1010  java Main test.txt
+ 1011  vim Main.java 
+ 1012  javac Main.java 
+ 1013  java Main test.txt
+ 1014  clear
+ 1015  exit
+ 1016  cd Documents/Development/Personal/CodeEval/
+ 1017  git add .
+ 1018  git status
+ 1019  rm Java/BitPotsition/Main.class 
+ 1020  rm Java/SmallestMultiple/Main.class 
+ 1021  git add .
+ 1022  ls
+ 1023  git status
+ 1024  git rm Java/BitPotsition/Main.class 
+ 1025  git rm Java/SmallestMultiple/Main.class 
+ 1026  git status
+ 1027  git commit -m "Finished 2 more in Java moving on to c++"
+ 1028  git push origin master 
+ 1029  clear
+ 1030  git status
+ 1031  cleaR
+ 1032  clear
+ 1033  exit
+ 1034  cd Documents/Development/Personal/CodeEval/
+ 1035  mkdir c++
+ 1036  cd c++/
+ 1037  ls
+ 1038  mkdir LowercaseText
+ 1039  cd LowercaseText/
+ 1040  ls
+ 1041  vim Main.cpp
+ 1042  clang++-3.5 Main.cpp
+ 1043  vim Main.cpp 
+ 1044  clang++-3.5 Main.cpp
+ 1045  ./a.out a a a a d fg g h asd 
+ 1046  vim Main.cpp 
+ 1047  clang++-3.5 Main.cpp
+ 1048  ./a.out a a a a d fg g h asd 
+ 1049  clear
+ 1050  vim Main.cpp 
+ 1051  clang++ Main.cpp 
+ 1052  clang++-3.5 Main.cpp 
+ 1053  vim Main.cpp 
+ 1054  clang++-3.5 Main.cpp 
+ 1055  vim Main.cpp 
+ 1056  clang++-3.5 Main.cpp 
+ 1057  vim Main.cpp 
+ 1058  clang++-3.5 Main.cpp 
+ 1059  clear
+ 1060  vim Main.cpp 
+ 1061  vim ~/.vimrc 
+ 1062  vim Main.cpp 
+ 1063  vim ~/.vimrc 
+ 1064  vim Main.cpp 
+ 1065  vim ~/.vimrc 
+ 1066  vim Main.cpp 
+ 1067  vim ~/.vimrc 
+ 1068  vim Main.cpp 
+ 1069  gcc
+ 1070  clear
+ 1071  gcc Main.cpp 
+ 1072  g++ Main.cpp 
+ 1073  clear
+ 1074  vim Main.cpp 
+ 1075  clear
+ 1076  ls
+ 1077  cd c++/
+ 1078  ls
+ 1079  cd LowercaseText/
+ 1080  ls
+ 1081  rm a.out 
+ 1082  ls
+ 1083  vim Main.cpp 
+ 1084  clang++-3.5 Main.cpp 
+ 1085  vim Main.cpp 
+ 1086  clang++-3.5 Main.cpp 
+ 1087  ./a.out test.txt 
+ 1088  clear
+ 1089  vim Main.cpp 
+ 1090  clang++-3.5 Main.cpp 
+ 1091  vim Main.cpp 
+ 1092  clang++-3.5 Main.cpp 
+ 1093  vim Main.cpp 
+ 1094  clang++-3.5 Main.cpp 
+ 1095  vim Main.cpp 
+ 1096  clang++-3.5 Main.cpp 
+ 1097  ./a.out test.txt 
+ 1098  ls
+ 1099  ./a.out test.txt
+ 1100  clear
+ 1101  cat test.txt 
+ 1102  vim Main.cpp 
+ 1103  clang++-3.5 Main.cpp 
+ 1104  ./a.out test.txt
+ 1105  vim Main.cpp 
+ 1106  clang++-3.5 Main.cpp 
+ 1107  ./a.out test.txt
+ 1108  clear
+ 1109  ./a.out 
+ 1110  vim Main.cpp 
+ 1111  clang++-3.5 Main.cpp 
+ 1112  ./a.out 
+ 1113  rm test.txt 
+ 1114  vim test.txt
+ 1115  ./a.out test.txt 
+ 1116  vim test.txt
+ 1117  vim Main.cpp 
+ 1118  clang++-3.5 Main.cpp 
+ 1119  ./a.out test.txt 
+ 1120  clear
+ 1121  vim Main.cpp 
+ 1122  clang++-3.5 Main.cpp 
+ 1123  vim Main.cpp 
+ 1124  clang++-3.5 Main.cpp 
+ 1125  ./a.out test.txt 
+ 1126  vim Main.cpp 
+ 1127  clear
+ 1128  clang++-3.5 Main.cpp 
+ 1129  ./a.out test.txt 
+ 1130  clear
+ 1131  ./a.out test.txt 
+ 1132  clear
+ 1133  clang++-3.5 Main.cpp 
+ 1134  ./a.out test.txt 
+ 1135  ./a.out 'test.txt'
+ 1136  clear
+ 1137  ./a.out 'test.txt'
+ 1138  ./a.out "test.txt"
+ 1139  ./a.out ./test.txt 
+ 1140  clear
+ 1141  ./a.out ./test.txt 
+ 1142  vim Main.cpp 
+ 1143  clang++-3.5 Main.cpp 
+ 1144  ./a.out
+ 1145  ./a.out test.txt 
+ 1146  clear
+ 1147  ./a.out ./test.txt 
+ 1148  vim Main.cpp 
+ 1149  clang++-3.5 Main.cpp 
+ 1150  ./a.out ./test.txt 
+ 1151  vim Main.cpp 
+ 1152  ./a.out ./test.txt 
+ 1153  clang++-3.5 Main.cpp 
+ 1154  ./a.out ./test.txt 
+ 1155  vim Main.cpp 
+ 1156  clang++-3.5 Main.cpp 
+ 1157  ./a.out ./test.txt 
+ 1158  vim Main.cpp 
+ 1159  clang++-3.5 Main.cpp 
+ 1160  ./a.out ./test.txt 
+ 1161  vim Main.cpp 
+ 1162  clang++-3.5 Main.cpp 
+ 1163  ./a.out ./test.txt 
+ 1164  vim Main.cpp 
+ 1165  clang++-3.5 Main.cpp 
+ 1166  clear
+ 1167  ./a.out ./test.txt 
+ 1168  vim Main.cpp 
+ 1169  clang++-3.5 Main.cpp 
+ 1170  ./a.out ./test.txt 
+ 1171  clear
+ 1172  vim Main.cpp 
+ 1173  clang++-3.5 Main.cpp 
+ 1174  ./a.out ./test.txt 
+ 1175  clear
+ 1176  vim Main.cpp 
+ 1177  clang++-3.5 Main.cpp 
+ 1178  ./a.out test.txt 
+ 1179  vim Main.cpp 
+ 1180  clang++-3.5 Main.cpp 
+ 1181  ./a.out test.txt 
+ 1182  vim Main.cpp 
+ 1183  clang++-3.5 Main.cpp 
+ 1184  ./a.out test.txt 
+ 1185  clear
+ 1186  vim Main.cpp 
+ 1187  clang++-3.5 Main.cpp 
+ 1188  ./a.out test.txt 
+ 1189  clang++-3.5 Main.cpp 
+ 1190  ./a.out test.txt 
+ 1191  vim Main.cpp 
+ 1192  clang++-3.5 Main.cpp 
+ 1193  ./a.out test.txt 
+ 1194  clear
+ 1195  vim Main.cpp 
+ 1196  clang++-3.5 Main.cpp 
+ 1197  ./a.out test.txt 
+ 1198  clang++-3.5 Main.cpp 
+ 1199  clear
+ 1200  cd ../
+ 1201  ls
+ 1202  mkdir SumNumbers
+ 1203  cd SumNumbers/
+ 1204  ls
+ 1205  cp ../LowercaseText/Main.cpp ./SumNumbers.cpp
+ 1206  ls
+ 1207  vim SumNumbers.cpp 
+ 1208  mv SumNumbers.cpp Main.cpp
+ 1209  clang++-3.5 Main.cpp 
+ 1210  vim Main.cpp 
+ 1211  clang++-3.5 Main.cpp 
+ 1212  vim Main.cpp 
+ 1213  clang++-3.5 Main.cpp 
+ 1214  vim test.txt
+ 1215  clang++-3.5 Main.cpp 
+ 1216  ./a.out test.txt 
+ 1217  vim test.txt
+ 1218  vim Main.cpp 
+ 1219  clang++-3.5 Main.cpp 
+ 1220  ./a.out test.txt 
+ 1221  cat test.txt 
+ 1222  vim Main.cpp 
+ 1223  clang++-3.5 Main.cpp 
+ 1224  ./a.out test.txt 
+ 1225  vim Main.cpp 
+ 1226  clang++-3.5 Main.cpp 
+ 1227  ./a.out test.txt 
+ 1228  cat test.txt 
+ 1229  vim Main.cpp 
+ 1230  clang++-3.5 Main.cpp 
+ 1231  vim Main.cpp 
+ 1232  clang++-3.5 Main.cpp 
+ 1233  vim Main.cpp 
+ 1234  clang++-3.5 Main.cpp 
+ 1235  ./a.out test.txt 
+ 1236  vim Main.cpp 
+ 1237  clang++-3.5 Main.cpp 
+ 1238  ./a.out test.txt 
+ 1239  vim Main.cpp 
+ 1240  clang++-3.5 Main.cpp 
+ 1241  vim Main.cpp 
+ 1242  ./a.out test.txt 
+ 1243  vim Main.cpp 
+ 1244  clang++-3.5 Main.cpp 
+ 1245  ./a.out test.txt 
+ 1246  vim Main.cpp 
+ 1247  clang++-3.5 Main.cpp 
+ 1248  ./a.out test.txt 
+ 1249  vim Main.cpp 
+ 1250  clang++-3.5 Main.cpp 
+ 1251  ./a.out test.txt 
+ 1252  vim Main.cpp 
+ 1253  clang++-3.5 Main.cpp 
+ 1254  ./a.out test.txt 
+ 1255  vim Main.cpp 
+ 1256  clang++-3.5 Main.cpp 
+ 1257  ./a.out test.txt 
+ 1258  vim Main.cpp 
+ 1259  clang++-3.5 Main.cpp 
+ 1260  ./a.out test.txt 
+ 1261  vim Main.cpp 
+ 1262  clang++-3.5 Main.cpp 
+ 1263  ./a.out test.txt 
+ 1264  cat test.txt 
+ 1265  clear
+ 1266  vim Main.cpp 
+ 1267  clang++-3.5 Main.cpp 
+ 1268  ./a.out test.txt 
+ 1269  vim Main.cpp 
+ 1270  clang++-3.5 Main.cpp 
+ 1271  ./a.out test.txt 
+ 1272  exit
+ 1273  clang++-3.5 Main.cpp 
+ 1274  exit
+ 1275  clang++-3.5 Main.cpp 
+ 1276  clear
+ 1277  clang++-3.5 Main.cpp 
+ 1278  ./a.out test.txt 
+ 1279  cat test.txt 
+ 1280  vim test.txt 
+ 1281  ./a.out test.txt 
+ 1282  clang++-3.5 Main.cpp 
+ 1283  ./a.out test.txt 
+ 1284  clang++-3.5 Main.cpp 
+ 1285  ./a.out test.txt 
+ 1286  clear
+ 1287  ./a.out test.txt 
+ 1288  clang++-3.5 Main.cpp 
+ 1289  ./a.out 
+ 1290  ./a.out test.txt 
+ 1291  clear
+ 1292  clang++-3.5 Main.cpp 
+ 1293  ./a.out test.txt 
+ 1294  cat test.txt 
+ 1295  ./a.out test.txt 
+ 1296  clang++-3.5 Main.cpp 
+ 1297  ./a.out test.txt 
+ 1298  clang++-3.5 Main.cpp 
+ 1299  ./a.out test.txt 
+ 1300  clang++-3.5 Main.cpp 
+ 1301  ./a.out test.txt 
+ 1302  exit
+ 1303  cd Documents/Development/Personal/CodeEval/c++/
+ 1304  ls
+ 1305  mkdir FindFib
+ 1306  mv SumNumbers/Main.cpp FindFib/
+ 1307  cp FindFib/Main.cpp SumNumbers/
+ 1308  ls
+ 1309  ls SumNumbers/
+ 1310  ls FindFib/
+ 1311  ls
+ 1312  clear
+ 1313  rm ./*/a.*
+ 1314  ls
+ 1315  ls LowercaseText/
+ 1316  ls SumNumbers/
+ 1317  clear
+ 1318  git status
+ 1319  cd ../../
+ 1320  ;s
+ 1321  ls
+ 1322  c CodeEval/
+ 1323  cd CodeEval/
+ 1324  ls
+ 1325  git status
+ 1326  git add c++/
+ 1327  git status
+ 1328  clear
+ 1329  cd c++/FindFib/
+ 1330  ls
+ 1331  vim Main.cpp 
+ 1332  clang++-3.5 Main.cpp 
+ 1333  vim Main.cpp 
+ 1334  clang++-3.5 Main.cpp 
+ 1335  vim test.txt
+ 1336  ./a.out test.txt 
+ 1337  vim test.txt
+ 1338  vim Main.cpp 
+ 1339  clang++-3.5 Main.cpp 
+ 1340  ./a.out test.txt 
+ 1341  vim Main.cpp 
+ 1342  clang++-3.5 Main.cpp 
+ 1343  vim Main.cpp 
+ 1344  clang++-3.5 Main.cpp 
+ 1345  vim Main.cpp 
+ 1346  clang++-3.5 Main.cpp 
+ 1347  clear
+ 1348  vim ../SumNumbers/Main.cpp 
+ 1349  vim Main.cpp 
+ 1350  cd ..
+ 1351  ls
+ 1352  rm */*/a.out
+ 1353  ls c++/FindFib/
+ 1354  ls Java/BitPotsition/
+ 1355  ls Java/SmallestMultiple/
+ 1356  ls Java/WordReverser/
+ 1357  clear
+ 1358  git status
+ 1359  git add c++/FindFib/test.txt 
+ 1360  git add c++/FindFib/Main.cpp 
+ 1361  git statys
+ 1362  git status
+ 1363  git commit -m "Three in c++ moving to php"
+ 1364  git push origin master
+ 1365  clear
+ 1366  git statys
+ 1367  git status
+ 1368  clear
+ 1369  exit
+ 1370  sudo apt-get install spotify-client
+ 1371  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D2C19886
+ 1372  echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
+ 1373  sudo apt-get update
+ 1374  sudo apt-get install spotify-client
+ 1375  clear
+ 1376  sudo apt-get update
+ 1377  sudo apt-get install spotify-client
+ 1378  sudo apt-get install spotify
+ 1379  sudo apt-get install spoti
+ 1380  clear
+ 1381  exit
+ 1382  mkdir MyDotFiles
+ 1383  ls
+ 1384  cd MyDotFiles/
+ 1385  cp ~/.vimrc ./
+ 1386  ls
+ 1387  cd ./
+ 1388  ls
+ 1389  cp ~/.vimrc .
+ 1390  ls
+ 1391  ll
+ 1392  clear
+ 1393  mv ./.vimrc vimrc
+ 1394  ls
+ 1395  ll
+ 1396  clear
+ 1397  git remote add origin https://github.com/couryrr/MyDotFiles.git
+ 1398  git init
+ 1399  git remote add origin https://github.com/couryrr/MyDotFiles.git
+ 1400  clear
+ 1401  git push origin master
+ 1402  git branch 
+ 1403  git add .
+ 1404  git branch 
+ 1405  git status
+ 1406  git commit -m "vimrc added"
+ 1407  git status
+ 1408  git branch 
+ 1409  git push origin master
+ 1410  clear
+ 1411  php -v
+ 1412  sudo apt-get update 
+ 1413  clear
+ 1414  php -v
+ 1415  sudo apt-get install php5-cli 
+ 1416  php -v
+ 1417  clear
+ 1418  php -v
+ 1419  cd ../
+ 1420  ls
+ 1421  cd CodeEval/
+ 1422  ls
+ 1423  mkdir PHP
+ 1424  ls
+ 1425  cd PHP/
+ 1426  ls
+ 1427  vim test.php
+ 1428  php test.php 
+ 1429  clear
+ 1430  vim test.php 
+ 1431  php test.php 
+ 1432  clear
+ 1433  exit
+ 1434  cd Documents/Development/Personal/CodeEval/PHP/
+ 1435  ls
+ 1436  rm test.php 
+ 1437  ls
+ 1438  clear
+ 1439  mkdir MultiplicationTable
+ 1440  ls
+ 1441  cd MultiplicationTable/
+ 1442  ls
+ 1443  vim Main.php
+ 1444  php Main.php 
+ 1445  vim Main.php 
+ 1446  php Main.php 
+ 1447  vim Main.php 
+ 1448  php Main.php 
+ 1449  vim Main.php 
+ 1450  php Main.php 
+ 1451  vim Main.php 
+ 1452  php Main.php 
+ 1453  vim Main.php 
+ 1454  php Main.php 
+ 1455  clear
+ 1456  vim Main.php 
+ 1457  php Main.php 
+ 1458  vim Main.php 
+ 1459  php Main.php 
+ 1460  clear
+ 1461  vim Main.php 
+ 1462  php Main.php 
+ 1463  clear
+ 1464  vim Main.php 
+ 1465  php Main.php 
+ 1466  vim Main.php 
+ 1467  clear
+ 1468  php Main.php 
+ 1469  clear
+ 1470  vim Main.php 
+ 1471  php Main.php 
+ 1472  vim Main.php 
+ 1473  php Main.php 
+ 1474  clear
+ 1475  vim Main.php 
+ 1476  php Main.php 
+ 1477  exit
+ 1478  cd Documents/Development/Personal/CodeEval/PHP/
+ 1479  mkdir SumNumbers
+ 1480  cd SumNumbers/
+ 1481  vim Main.php
+ 1482  cat ../MultiplicationTable/Main.php 
+ 1483  clear
+ 1484  vim Main.php 
+ 1485  vim test.txt
+ 1486  php Main.php test.txt 
+ 1487  vim test.txt
+ 1488  vim Main.php 
+ 1489  php Main.php test.txt 
+ 1490  vim Main.php 
+ 1491  php Main.php test.txt 
+ 1492  cat test.txt 
+ 1493  vim Main.php 
+ 1494  php Main.php test.txt 
+ 1495  vim Main.php 
+ 1496  php Main.php test.txt 
+ 1497  clear
+ 1498  php Main.php test.txt
+ 1499  php Main.php test.txt 
+ 1500  clear
+ 1501  vim Main.php 
+ 1502  php Main.php test.txt 
+ 1503  clear
+ 1504  vim Main.php 
+ 1505  php Main.php test.txt 
+ 1506  clear
+ 1507  cd ../
+ 1508  mkdir OddNumbers
+ 1509  cp MultiplicationTable/Main.php OddNumbers/
+ 1510  ls
+ 1511  clear
+ 1512  cd OddNumbers/
+ 1513  ls
+ 1514  vim Main.php 
+ 1515  php Main.php 
+ 1516  clear
+ 1517  cd ../..
+ 1518  ls
+ 1519  git add .
+ 1520  git commit -m "Two east challenges for php."
+ 1521  git push origin master 
+ 1522  clear
+ 1523  git status
+ 1524  clear
+ 1525  cd python/
+ 1526  clear
+ 1527  mkdir FileSize
+ 1528  cd FileSize/
+ 1529  clear
+ 1530  ls
+ 1531  pwd
+ 1532  clear
+ 1533  vim Main.php
+ 1534  rm M
+ 1535  ls
+ 1536  vim Main.py
+ 1537  python Main.py k
+ 1538  vim Main.py
+ 1539* pyth11
+ 1540  vim Main.py
+ 1541  vim test.txt
+ 1542  tree
+ 1543  history 
+ 1544  cleae
+ 1545  clear
+ 1546  history | cat >> test.txt 
