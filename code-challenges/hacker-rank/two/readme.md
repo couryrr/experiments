@@ -1,1 +1,0 @@
-Challenges from https://www.hackerrank.com/
