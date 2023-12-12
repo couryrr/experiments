@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("../_global/normalize.css");
+
+:root {
+    --main-color-rgb: 54, 69, 79;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(var(--main-color-rgb), .7);
+}
+
+.flex-container {
+    margin-top: 25px;
+    flex-direction: column;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+button{
+}

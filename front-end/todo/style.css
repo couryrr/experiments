@@ -1,0 +1,43 @@
+@import url("../_global/normalize.css");
+
+:root {
+    --background-color-rgb: 231, 235, 237;
+    --main-color-rgb: 41, 49, 54;
+    --side-bar-color-rgb: 54, 46, 41;
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(var(--background-color-rgb));
+}
+
+nav.site-nav {
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+.todo-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 5px;
+}
+
+.todo-task-container {
+    padding: 0 0 0 15px;
+    border: 1px solid;
+}
+
+.todo-task-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.todo-calendar-container {
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+}

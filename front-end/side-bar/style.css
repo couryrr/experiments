@@ -1,0 +1,68 @@
+@import url("../_global/normalize.css");
+:root {
+    --background-color-rgb: 231, 235, 237;
+    --main-color-rgb: 41, 49, 54;
+    --side-bar-color-rgb: 54, 46, 41;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(var(--background-color-rgb));
+}
+
+.grid-containter{
+    margin: 2vh 5px;
+    height: 96vh;
+    gap: 5px;
+    position: relative;
+}
+
+.side-bar {
+    background: rgb(var(--side-bar-color-rgb));
+    height: 100%;
+    width: 75px;
+    position: absolute;
+    border: 1px solid;
+    transition: .4s ease-in-out;
+}
+
+.side-bar.open {
+    width: 250px;
+}
+
+.side-bar .banner .chevron {
+    position: relative;
+}
+
+.side-bar .banner .chevron {
+    background: rgb(var(--side-bar-color-rgb));
+    border: 1px solid;
+    position:absolute;
+    top:19px;
+    right: -20px;
+}
+
+.side-bar.open .banner .chevron img{
+    transform: rotate(180deg);
+    transition: .3s;
+}
+
+.side-bar ul {
+    list-style: none;
+    visibility: hidden;
+    opacity: 0;
+    transition: all .25s linear;
+}
+
+.side-bar.open ul {
+    visibility: visible;
+    opacity: 1;
+}
+
+.dashboard {
+    background: rgb(var(--main-color-rgb));
+    text-align: center;
+    height: 100%;
+    border: 1px solid;
+}
+

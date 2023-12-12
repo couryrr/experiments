@@ -1,0 +1,79 @@
+body {
+  font-family: "GT America Standard", sans-serif;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  height: 88px;
+  padding: 0 15px;
+  background-color: #000000;
+}
+
+button {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 22px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button.black {
+  background-color: #000000;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+button.primary {
+  background-color: #4c5fd5;
+  color: #fff;
+}
+
+button.primary:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.banner {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 80px;
+  padding-bottom: 115px;
+  background-color: #dadbf1;
+}
+
+input {
+  display: block;
+  background-image: none;
+  border-radius: 5px;
+  padding: 1rem 1rem;
+  border: 1px solid #dee2e6;
+}
+
+input[type="search"] {
+  width: 100%;
+  max-width: 720px;
+}
+.help-options {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-rows: 250px 250px;
+  grid-template-columns: 250px 250px;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  background-color: #000000;
+}
+footer ul {
+  list-style-type: none;
+}

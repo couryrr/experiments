@@ -1,0 +1,41 @@
+{{define "form-message"}}
+<h1>success</h1>
+{{end}}
+
+{{define "item-list"}}
+<ul id="item-list" class="text-lg p-4 list-disc">
+    {{if not .}}<h3 class="text-lg bold">Nothing to show</h3>{{end}}
+    {{range .}}
+    <li>{{.Title}} <input hx-patch="/stuff/item/toggle/active" hx-trigger="click" type="checkbox" name="item-{{.Id}}"
+            {{if .Active}} checked {{end}} /></li>
+    {{end}}
+</ul>
+{{end}}
+
+{{define "create-form"}}
+
+<div id="create-form-modal-backdrop"
+    class="bg-gray-300 bg-opacity-25 z-50 fixed w-full p-4 overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+
+    <div id="create-form-modal" class="flex flex-col items-center w-3/4 mx-auto mt-8 p-4 bg-slate-900 rounded-lg"> <div id="form-message"></div> <h1 class="text-6xl font-bold">Create a new item</h1> <form class="mt-8" hx-post="/stuff/item" hx-target="#form-message" hx-swap="innerHTML"> <label class="relative block"> <span class="sr-only">Title</span> <input class="text-slate-900 placeholder:italic placeholder:text-slate-400 block bg-gray-300 w-full border border-gray-300 rounded-md p-2 focus:outline-none focus:border-gray-800 focus:ring-gray-800 focus:ring-1 sm:text-sm"
+                    placeholder="Title" type="text" name="title" />
+            </label>
+
+            <label class="relative block">
+                <input type="checkbox" name="active" />
+            </label>
+
+            <button
+                class="h-12 w-24 border border-gray-300 rounded-md bg-gray-300 hover:bg-gray-500 hover:scale-105 mt-4 p-2 font-bold text-slate-900 text-center">Save</button>
+            <button
+                class="h-12 w-24 border border-gray-300 rounded-md bg-gray-300 hover:bg-gray-500 hover:scale-105 mt-4 p-2 font-bold text-slate-900 text-center"
+                onclick="closeModal()">Close</button>
+        </form>
+    </div>
+</div>
+
+{{end}}
+
+{{define "item-count"}}
+<span>Count: {{.Count}}</span>
+{{end}}
